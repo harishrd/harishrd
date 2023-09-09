@@ -13,13 +13,6 @@ I've worked on a variety of projects, including web applications, mobile apps, a
 
 In addition to coding, I'm also interested in music, travel, and photography. I'm always looking for new things to learn and experience.
 
-
-<style>
-body {
-  background-image: url("https://unsplash.com/photos/an-aerial-view-of-a-road-in-the-middle-of-a-forest-qe_EJGKxwQ0");
-}
-</style>
-
 <!--
 ## Contact Me
 
